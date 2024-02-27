@@ -188,8 +188,6 @@ _Details coming soon ..._
 ## Command summary
 
 
-## Command summary
-
 ### Client Functions
 
 | Action     | Format, Examples                                                                                                                                                      |
@@ -201,8 +199,6 @@ _Details coming soon ..._
 | **Find**   | `find KEYWORD [MORE_KEYWORDS]`<br> e.g., `find James Jake`                                                                                                            |
 
 ### Meeting Functions
-
-### General Functions
 
 | Action     | Format, Examples                                                |
 |------------|-----------------------------------------------------------------|
